@@ -60,6 +60,7 @@ kit_sobr_shieldbearer = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",10],["rhs_mag_rgn",2],["rhs_mag_zarya2",2],["rhs_mag_nspd",1],["rhs_mag_9x18_12_57N181S",1]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_04","usm_WhiteHead_06","cwr3_face_gabriel","WhiteHead_08","LivonianHead_7","GreekHead_A3_13"], "ace_novoice", ""]
 ];
 
 kit_sobr_ar = [
@@ -71,6 +72,7 @@ kit_sobr_ar = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",7]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_04","usm_WhiteHead_06","cwr3_face_gabriel","WhiteHead_08","LivonianHead_7","GreekHead_A3_13"], "ace_novoice", ""]
 ];
 
 kit_sobr_gr = [
@@ -82,6 +84,7 @@ kit_sobr_gr = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["rhs_mag_9x18_12_57N181S",2],["dzn_3Rnd_VGM93_300_Mag",2],["dzn_3Rnd_VGM93_400_Mag",1],["PRIMARY MAG",5],["HANDGUN MAG",3]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_04","usm_WhiteHead_06","cwr3_face_gabriel","WhiteHead_08","LivonianHead_7","GreekHead_A3_13"], "ace_novoice", ""]
 ];
 
 kit_sobr_r = [
@@ -93,6 +96,7 @@ kit_sobr_r = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["rhs_mag_rgn",2],["rhs_mag_zarya2",2],["rhs_mag_nspd",1],["rhs_mag_9x18_12_57N181S",3],["PRIMARY MAG",10]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_04","usm_WhiteHead_06","cwr3_face_gabriel","WhiteHead_08","LivonianHead_7","GreekHead_A3_13"], "ace_novoice", ""]
 ];
 
 kit_sobr_ftl = [
@@ -104,6 +108,7 @@ kit_sobr_ftl = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["rhs_mag_rgn",2],["rhs_mag_zarya2",2],["rhs_mag_nspd",1],["rhs_mag_9x18_12_57N181S",3],["PRIMARY MAG",10]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_04","usm_WhiteHead_06","cwr3_face_gabriel","WhiteHead_08","LivonianHead_7","GreekHead_A3_13"], "ace_novoice", ""]
 ];
 
 kit_sobr_sl = [
@@ -115,6 +120,7 @@ kit_sobr_sl = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["rhs_mag_rgn",2],["rhs_mag_zarya2",2],["rhs_mag_nspd",1],["rhs_mag_9x18_12_57N181S",3],["PRIMARY MAG",10]]],
 	["<BACKPACK ITEMS >> ",[["ACE_CableTie",5],["ACE_DefusalKit",1],["ACE_MapTools",1],["ZSN_Whistle",1],["ACE_wirecutter",1],["ACE_Clacker",1],["rhs_mine_sm320_green_mag",4]]]
+	,["<IDENTITY >>", ["WhiteHead_04","usm_WhiteHead_06","cwr3_face_gabriel","WhiteHead_08","LivonianHead_7","GreekHead_A3_13"], "ace_novoice", ""]
 ];
 
 kit_sobr_pl = [
@@ -126,6 +132,7 @@ kit_sobr_pl = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["rhs_mag_rgn",2],["rhs_mag_zarya2",2],["rhs_mag_nspd",1],["rhs_mag_9x18_12_57N181S",3],["PRIMARY MAG",10]]],
 	["<BACKPACK ITEMS >> ",[["ACE_CableTie",5],["ACE_DefusalKit",1],["ACE_MapTools",1],["ZSN_Whistle",1],["ACE_wirecutter",1],["ACE_Clacker",1],["rhs_mine_sm320_green_mag",4]]]
+	,["<IDENTITY >>", ["WhiteHead_04","usm_WhiteHead_06","cwr3_face_gabriel","WhiteHead_08","LivonianHead_7","GreekHead_A3_13"], "ace_novoice", ""]
 ];
 
 kit_sobr_mm = [
@@ -137,6 +144,7 @@ kit_sobr_mm = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",15],["HANDGUN MAG",7]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_04","usm_WhiteHead_06","cwr3_face_gabriel","WhiteHead_08","LivonianHead_7","GreekHead_A3_13"], "ace_novoice", ""]
 ];
 
 //Bandits
@@ -150,6 +158,7 @@ kit_bandit_r = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["rhs_30Rnd_762x39mm_bakelite",6]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_04","usm_WhiteHead_06","cwr3_face_gabriel","WhiteHead_08","LivonianHead_7","GreekHead_A3_13"], ["rhs_male02rus","rhs_male01rus","male01rus","cup_d_male03_ru","rhs_male04rus"], ""]
 ];
 
 kit_bandit_ar = [
@@ -161,6 +170,7 @@ kit_bandit_ar = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[]],
 	["<BACKPACK ITEMS >> ",[["CUP_40Rnd_TE4_LRT4_Green_Tracer_762x39_RPK_M",12]]]
+	,["<IDENTITY >>", ["WhiteHead_04","usm_WhiteHead_06","cwr3_face_gabriel","WhiteHead_08","LivonianHead_7","GreekHead_A3_13"], ["rhs_male02rus","rhs_male01rus","male01rus","cup_d_male03_ru","rhs_male04rus"], ""]
 ];
 
 kit_bandit_sg = [
@@ -172,6 +182,7 @@ kit_bandit_sg = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["CUP_1Rnd_12Gauge_Slug",6],["PRIMARY MAG",84],["CUP_8Rnd_9x18_Makarov_M",2]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_04","usm_WhiteHead_06","cwr3_face_gabriel","WhiteHead_08","LivonianHead_7","GreekHead_A3_13"], ["rhs_male02rus","rhs_male01rus","male01rus","cup_d_male03_ru","rhs_male04rus"], ""]
 ];
 
 kit_bandit_6 = [
@@ -183,6 +194,7 @@ kit_bandit_6 = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["CUP_8Rnd_9x18_Makarov_M",10]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_04","usm_WhiteHead_06","cwr3_face_gabriel","WhiteHead_08","LivonianHead_7","GreekHead_A3_13"], ["rhs_male02rus","rhs_male01rus","male01rus","cup_d_male03_ru","rhs_male04rus"], ""]
 ];
 
 kit_vitya_czerwoniec = [
@@ -194,6 +206,7 @@ kit_vitya_czerwoniec = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["HANDGUN MAG",8]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", "WhiteHead_25", "ace_novoice", ""]
 ];
 
 //Avengers
@@ -245,9 +258,56 @@ kit_Kolya_Fyodorov = [
 	["<BACKPACK ITEMS >> ",[["PRIMARY MAG",20],["CUP_5Rnd_B_Saiga12_Buck_0",20]]]
 ];
 
+kit_Sarik_Pekasyan = [
+	["<EQUIPEMENT >>  ","CUP_U_C_Villager_03","cwr3_o_vest_beltkit_ak74","B_FieldPack_oli","cwr3_i_headgear_cap_khaki",""],
+	["<PRIMARY WEAPON >>  ","CUP_sgun_CZ584","CUP_1Rnd_12Gauge_Pellets_No00_Buck",["","","",""]],
+	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
+	["<HANDGUN WEAPON >>  ","rhs_weap_makarov_pm","rhs_mag_9x18_8_57N181S",["","","",""]],
+	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
+	["<VEST ITEMS >> ",[["CUP_1Rnd_12Gauge_Slug",30],["CUP_1Rnd_762x51_CZ584",20],["CUP_8Rnd_9x18_Makarov_M",5],["CUP_1Rnd_12Gauge_Pellets_No0_Buck",15],["CUP_1Rnd_12Gauge_Pellets_No3_Buck",10],["CUP_HandGrenade_RGD5",2],["rhs_mag_rgd5",1]]],
+	["<BACKPACK ITEMS >> ",[["CUP_1Rnd_762x51_CZ584",20],["rhs_mag_rdg2_black",16]]]
+	,["<IDENTITY >>", "PersianHead_A3_01", "ace_novoice", ""]
+];
+
+kit_David_Varfolomeyevich = [
+	["<EQUIPEMENT >>  ","TRYK_U_B_Denim_T_BG_BK","CUP_V_OI_TKI_Jacket1_04","B_FieldPack_oli","CUP_H_ChDKZ_Beret","CUP_Beard_Blonde"],
+	["<PRIMARY WEAPON >>  ","cwr3_smg_sterling","cwr3_30rnd_sterling_m",["","","",""]],
+	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
+	["<HANDGUN WEAPON >>  ","CUP_hgun_Browning_HP","CUP_13Rnd_9x19_Browning_HP",["","","",""]],
+	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
+	["<VEST ITEMS >> ",[["HANDGUN MAG",8]]],
+	["<BACKPACK ITEMS >> ",[["PRIMARY MAG",20]]]
+	,["<IDENTITY >>", "WhiteHead_24", "ace_novoice", ""]
+];
+
+kit_Durachok_Fedya = [
+	["<EQUIPEMENT >>  ","TRYK_shirts_DENIM_R","usm_vest_safety","TRYK_B_Kitbag_blk","cwr3_c_headgear_camelpilot_hat","CUP_PMC_Facewrap_Smilie"],
+	["<PRIMARY WEAPON >>  ","CUP_sgun_slamfire","CUP_1Rnd_12Gauge_Pellets_No00_Buck",["","","",""]],
+	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
+	["<HANDGUN WEAPON >>  ","Pipe_aluminium","",["","","",""]],
+	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
+	["<VEST ITEMS >> ",[["CUP_1Rnd_12Gauge_Pellets_No0_Buck",1]]],
+	["<BACKPACK ITEMS >> ",[["CUP_IED_V3_M",2],["IEDLandSmall_Remote_Mag",1],["CUP_IED_V1_M",2],["rhs_ec200_mag",3],["CUP_1Rnd_12Gauge_HE",20],["CUP_1Rnd_12Gauge_Pellets_No0_Buck",33]]]
+];
+
+kit_Deserteer_Gosha = [
+	["<EQUIPEMENT >>  ","CUP_U_C_Tracksuit_03","cwr3_o_vest_chicom_beltkit_ak74","cwr3_o_backpack_gasmask","CUP_H_RUS_SSH68_green","Mask_M40_OD"],
+	["<PRIMARY WEAPON >>  ","CUP_arifle_AK47_Early","CUP_30Rnd_762x39_AK47_M",["","","",""]],
+	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
+	["<HANDGUN WEAPON >>  ","Shovel_Russian","",["","","",""]],
+	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
+	["<VEST ITEMS >> ",[["rhs_30Rnd_762x39mm_bakelite",5],["hlc_30Rnd_762x39_t_ak_6L10",3],["rhs_mag_rgo",2],["CUP_HandGrenade_RGD5",2]]],
+	["<BACKPACK ITEMS >> ",[["CUP_30Rnd_TE1_Red_Tracer_762x39_AK47_bakelite_M",19]]]
+];
+
 cargo_kit_vaz = [
 	[["WBK_axe",1]],
 	[["rhs_mag_mine_ptm1",3],["APERSTripMine_Wire_Mag",5],["CUP_5Rnd_762x54_Mosin_M",30],["10Rnd_M43_762x39_Ball",10],["CUP_10Rnd_762x54_SVD_M",10],["CUP_5Rnd_B_Saiga12_Buck_00",15],["CUP_5Rnd_B_Saiga12_Slug",15]],
 	[["CUP_optic_PEM",1]],
 	[["CUP_B_DShkM_TripodHigh_Bag",1],["CUP_B_DShkM_Gun_Bag",1]]
 ];
+

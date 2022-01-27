@@ -22,4 +22,7 @@ A "Щитовик СОБР"										TO "kit_sobr_shieldbearer"	 		KIT
 , A "Линч-1 Афанасий Дмитриевич Попов@Линч-1"			TO "kit_Afanasiy_Dmitrievich"		KIT
 , A "Василий Павлович Щекочихин-Крестовоздвиженский"	TO "kit_Vasiliy_Palych"				KIT
 , A "Николай Георгиевич Попов"							TO "kit_Kolya_Fyodorov"				KIT
-
+, A "Линч-2 Георгий Савельевич Улепёткин@Линч-2"		TO "kit_Deserteer_Gosha"			KIT
+, A "Дурачок Федя"										TO "kit_Durachok_Fedya"				KIT
+, A "Линч-3 Давид Варфоломеевич Бейкер@Линч-3"			TO "kit_David_Varfolomeyevich"		KIT
+, A "Сарик Мартенович Пекасян"							TO "kit_Sarik_Pekasyan"				KIT
